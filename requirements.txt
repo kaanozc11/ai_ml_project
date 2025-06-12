@@ -7,3 +7,4 @@ numpy
 unidecode
 openpyxl
 seaborn
+yellowbrick
